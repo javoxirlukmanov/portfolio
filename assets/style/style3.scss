@@ -1,0 +1,522 @@
+*{
+  padding: 0;
+  margin: 0;
+  text-decoration: none !important;
+  list-style: none !important;
+  box-sizing: border-box !important;
+}
+
+.header-top{
+  width: 100%;
+  height: auto;
+
+
+  .header-top-nav{
+    width: 100%;
+    height: 50px;
+    .header-top-ul{
+      display: flex !important;
+      .header-top-li{
+        padding: 10px 20px;
+      .header-top-a{
+        font-family: 'Gilroy';
+        font-size: 15px;
+        font-weight: 600;
+        line-height: 16px;
+        letter-spacing: 0em;
+        color: #1F2428;;
+
+
+        }
+      }
+    }
+    .header-top-div{
+      width: 250px;
+
+     .header-top-div-image{
+      width: 30px;
+      height: 30px;
+     }
+     .header-top-a{
+      font-family: 'Gilroy';
+      font-size: 15px;
+      font-weight: 600;
+      line-height: 16px;
+      letter-spacing: 0em;
+      color: #1F2428;
+     }
+     .header-top-button{
+      background-color: rgb(129, 181, 52);
+      width: 140px;
+      height: 50px;
+      border-radius: 30px;
+      border: 0px solid greenyellow;
+      .header-button-p{
+        font-family: 'Gilroy';
+        font-size: 12px;
+        font-weight: 700;
+        line-height: 18px;
+        letter-spacing: 0em;
+        text-align: center;
+        color: #fff;
+
+      }
+     }
+    }
+
+  }
+
+}
+.header-center{
+  width: 100%;
+  height: auto;
+  .header-center-div{
+    width: 100%;
+    height: 280px;
+    background:url('../img2/фон (5).png') no-repeat center center / cover;
+    border-radius: 20px;
+    .header-center-h1{
+      font-family: Gilroy;
+      font-size: 13px;
+      font-weight: 300;
+      line-height: 14px;
+      letter-spacing: 0em;
+      text-align: left;
+color: #fff;
+    }
+    .header-center-h2{
+      font-family: Gilroy;
+font-size: 48px;
+font-weight: 800;
+line-height: 60px;
+letter-spacing: 0em;
+text-align: left;
+color: #fff;
+    }
+    .header-center-h3{
+      font-family: Gilroy;
+font-size: 24px;
+font-weight: 700;
+line-height: 30px;
+letter-spacing: 0em;
+text-align: left;
+color: #fff;
+    }
+    .header-center-button{
+      height: 66px;
+      width: 260px;
+      left: 260px;
+      top: 347px;
+      border-radius: 36px;
+      box-shadow: 0px 4px 4px 0px #01CB7C33;
+      background-color: rgb(104, 181, 28);
+      border: 0px;
+a{
+  P{
+    font-family: Gilroy;
+    font-size: 17px;
+    font-weight: 700;
+    line-height: 18px;
+    letter-spacing: 0em;
+    text-align: center;
+color: #f7f9fb;
+  }
+}
+    }
+  }
+}
+
+.header-below{
+  width: 100%;
+  height: auto;
+
+.header-below-h1{
+  font-family: Gilroy;
+font-size: 14px;
+font-weight: 700;
+line-height: 18px;
+letter-spacing: 0em;
+text-align: left;
+
+}
+.header-below-input{
+  width:100% ;
+  height: 40px;
+
+  font-size: 16px;
+  color: #1F2428;
+  font-weight: 300;
+  line-height: 16px;
+  border-top: 0px;
+  border-left: 0px;
+  border-right: 0px;
+  text-align: left;
+
+}
+.header-below-h2{
+  font-family: Gilroy;
+font-size: 44px;
+font-weight: 800;
+line-height: 56px;
+letter-spacing: 0em;
+
+
+}
+.header-below-h3{
+  font-family: Gilroy;
+font-size: 18px;
+font-weight: 700;
+line-height: 16px;
+letter-spacing: 0em;
+text-align: left;
+color: #1F2428;
+}
+.header-below-image{
+  width: 24px;
+  height: 12px;
+}
+  }
+
+
+
+
+  section{
+    width: 100%;
+    height: auto;
+    .bottom-div{
+      height: 280px;
+      width: 1800px;
+      left: 0px;
+      top: 0px;
+      border-radius: 36px;
+  background: url('../img2/фон\ \(5\).png') no-repeat center center / cover;
+  .section-h2{
+    font-family: Gilroy;
+    font-size: 40px;
+    font-weight: 800;
+    line-height: 56px;
+    letter-spacing: 0em;
+    text-align: left;
+  color: #f7f9fb;
+  }
+  .section-image{
+    width:66px ;
+    height: 66px;
+  }
+    }
+  }
+  footer {
+    width: 100%;
+    height: auto;
+    background-color: #fff;
+  }
+  footer .fa-brands {
+    font-size: 30px;
+  }
+  footer .footer-h2 {
+    font-family: Gilroy;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 16px;
+    letter-spacing: 0em;
+    text-align: left;
+  }
+  footer .footer-h3 {
+    font-family: Gilroy;
+    font-size: 14px;
+    font-weight: 300;
+    line-height: 20px;
+    letter-spacing: 0em;
+    text-align: left;
+  }
+  footer .footer-p {
+    font-size: 10px;
+    text-align: center;
+  }
+
+
+
+.mt-7{
+  margin-top: 7rem;
+}
+.pt-7{
+  padding-top: 7rem;
+}
+.w-h{
+  height: 90px;
+  color:#f7f9fb;
+  box-shadow: 0px 0px 70px 0px #8A8A8A1A;
+
+}
+
+
+@media(max-width:1199px){
+.header-top .header-top-image{
+  width: 120px;
+}
+.header-top .header-top-a{
+  font-size: 12px !important;
+}
+.header-top .header-top-li{
+  padding: 10px 10px !important;
+}
+}
+
+@media(max-width:991px){
+  .header-top .header-top-image{
+    margin-top: 16px !important;
+    width: 100px;
+  }
+  .header-top .header-top-a{
+    font-size: 9px !important;
+  }
+  .header-top .header-top-li{
+    padding: 10px 6px !important;
+  }
+  .header-top .header-top-div-image{
+    margin-left: 10px !important;
+    margin-top: 14px !important;
+    width: 20px !important;
+    height: 20px !important;
+  }
+  .header-top .header-top-button{
+    margin-top: 5px !important;
+    width: 100px !important;
+    height: 40px !important;
+    p{
+      margin-top: 12px !important;
+      font-size: 8px !important;
+    }
+  }
+
+  .header-below .header-below-h2{
+    font-size: 35px;
+  }
+  .header-below .header-below-h3{
+    font-size: 15px;
+  }
+  .header-below .header-below-image{
+    width: 20px;
+    height: 10px;
+  }
+  section .section-h2{
+    margin-top: -50px !important;
+    font-size: 30px !important;
+  }
+  section .section-image{
+    margin-top: -30px !important;
+    width: 50px  !important;
+    height: 50px !important;
+  }
+  section .bottom-div{
+    height: 200px !important;
+  }
+  footer img{
+    width: 120px;
+    height: 40px;
+  }
+  footer i{
+    font-size: 20px;
+  }
+
+  footer .footer-h2{
+    font-size: 13px;
+  }
+  footer a{
+    font-size: 11px;
+  }
+  }
+
+
+  @media(max-width:767px){
+    .header-top .header-top-image{
+      margin-top: 16px !important;
+      width: 70px;
+    }
+    .header-top .header-top-a{
+      font-size: 7px !important;
+    }
+    .header-top .header-top-li{
+      padding: 10px 4px !important;
+    }
+    .header-top .header-top-div-image{
+      margin-left: 10px !important;
+      margin-top: 19px !important;
+      width: 15px !important;
+      height: 15px !important;
+    }
+    .header-top .header-top-button{
+      margin-top: 10px !important;
+      width: 60px !important;
+      height: 25px !important;
+      p{
+        margin-top: 9px !important;
+        font-size: 6px !important;
+        line-height: 10px !important;
+      }
+    }
+.header-center-div{
+  height: 150px !important;
+}
+    .header-center .header-center-h1{
+      font-size: 10px !important;
+    }
+    .header-center .header-center-h2{
+      margin-top: -30px !important;
+      font-size: 20px !important;
+    }
+
+    .header-below .magnifier{
+      width: 20px;
+      height: 20px;
+    }
+
+    .header-below .header-below-h2{
+      font-size: 25px;
+    }
+    .header-below .header-below-h3{
+      margin-top: 6px !important;
+      font-size: 10px;
+    }
+    .header-below .header-below-image{
+      margin-top: -30px !important;
+      width: 15px;
+      height: 8px;
+    }
+
+    .w-h{
+      height: 60px !important;
+
+    }
+    section .section-h2{
+      margin-top: -80px !important;
+      font-size: 20px !important;
+    }
+    section .section-image{
+      margin-top: -80px !important;
+      width: 35px  !important;
+      height: 35px !important;
+    }
+    section .bottom-div{
+      height: 160px !important;
+    }
+    footer img{
+      width: 100px;
+      height: 30px;
+    }
+    footer i{
+      font-size: 20px !important;
+    }
+
+    footer .footer-h2{
+      font-size: 13px;
+    }
+    footer a{
+      font-size: 9px;
+    }
+  }
+
+
+
+  @media(max-width:575px){
+    .header-top .header-top-image{
+      margin-top: 16px !important;
+      width: 40px;
+    }
+    .header-top .header-top-a{
+
+      font-size: 4px !important;
+
+    }
+    .header-top .header-top-li{
+      padding: 10px 2px !important;
+    }
+    .header-top .header-top-div-image{
+      margin-left: 3px !important;
+      margin-top: 23px !important;
+      width: 10px !important;
+      height: 10px !important;
+    }
+    .header-top .header-top-button{
+      margin-top: 20px !important;
+      width: 30px !important;
+      height: 15px !important;
+      p{
+        margin-top: 3px !important;
+        font-size: 3px !important;
+        line-height: 10px !important;
+      }
+    }
+.header-center-div{
+  margin-top: -70px !important;
+  height: 70px !important;
+}
+    .header-center .header-center-h1{
+      margin-top: -30px !important;
+      font-size: 6px !important;
+    }
+    .header-center .header-center-h2{
+      margin-top: -80px !important;
+      font-size: 10px !important;
+    }
+
+    .header-below .header-below-h1{
+      font-size: 10px !important;
+    }
+    .header-below .header-below-input{
+height: 20px;
+font-size: 10px !important;
+    }
+
+    .header-below .magnifier{
+      width: 20px;
+      height: 20px;
+    }
+
+    .header-below .header-below-h2{
+      font-size: 15px;
+    }
+    .header-below .header-below-h3{
+      margin-top: 6px !important;
+      font-size: 7px;
+    }
+    .header-below .header-below-image{
+      margin-top: -30px !important;
+      width: 15px;
+      height: 8px;
+    }
+
+    .w-h{
+      height: 60px !important;
+
+    }
+    section .section-h2{
+      margin-top: -80px !important;
+      font-size: 15px !important;
+      line-height: 30px !important;
+    }
+    section .section-image{
+      margin-top: -100px !important;
+      width: 25px  !important;
+      height: 25px !important;
+    }
+    section .bottom-div{
+      height: 120px !important;
+    }
+    footer img{
+      width: 50px;
+      height: 15px;
+    }
+    footer i{
+      margin-top: -130px !important;
+      font-size: 10px !important;
+    }
+
+    footer .footer-h2{
+      font-size: 8px;
+    }
+    footer a{
+      font-size: 5px;
+      line-height: 5px !important;
+    }
+  }
